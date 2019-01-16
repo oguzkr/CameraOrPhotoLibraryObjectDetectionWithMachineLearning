@@ -1,4 +1,4 @@
-# CameraOrPhotoLibraryObjectDetectionWithMachineLearning
+# ObjectDetectionWithMachineLearning
 
 you just need to edit 
 
